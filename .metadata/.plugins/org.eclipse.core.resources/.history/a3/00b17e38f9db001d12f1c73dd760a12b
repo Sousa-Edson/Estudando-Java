@@ -1,0 +1,11 @@
+package david1;
+
+public class Animal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Scanner aninal =new Scanner(System.in);
+
+	}
+
+}

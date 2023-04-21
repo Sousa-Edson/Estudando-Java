@@ -1,0 +1,21 @@
+package david1;
+
+import java.util.Scanner;
+
+public class Animal {
+
+	public static void main(String[] args) {
+		//variavei
+		Scanner aninal =new Scanner(System.in);
+String animal; 
+String sexo_do_animal;
+int idade;
+
+System.out.print("qual o nome do animal");
+System.out.print("idade do animal");
+System.out.print("sexo do animal");
+
+
+	}
+
+}

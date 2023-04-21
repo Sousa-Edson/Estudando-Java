@@ -1,0 +1,22 @@
+package david1;
+
+import java.util.Scanner;
+
+public class Calculadora {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Scanner ler =new Scanner(System.in);
+int numA;
+int numB;
+int Soma = 0;
+
+System.out.print("digite o numero");
+numA=ler.nextInt();
+System.out.print("digite outro numero");
+numB=ler.nextInt();
+System.out.print("sua soma e :"+Soma);
+
+	}
+
+}
